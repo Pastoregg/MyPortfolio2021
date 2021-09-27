@@ -1,0 +1,70 @@
+<style type="text/css">
+ 
+img-caption {
+  width: 300px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+    background-color: turquoise;
+    color: black;
+    font-family: comic-sans ;
+    margin-left: 8vw;
+  }
+
+
+@media only screen and (max-width: 800px) 
+{
+  #image {
+    width: 85vw;
+  }
+
+#container { width: 900px; 
+margin: 0px auto 0px auto; 
+}
+
+}
+</style>
+<script language="javascript">
+ document.getElementsByTagName("h1")[0].style.fontSize = "2vw";
+</script>
+<div id="main">
+<h1 id="title"> Arabian Jinn - Lord of The lamp.
+</h1>
+<br>
+<p id="description"> جيناري مخلوقات خارقة للطبيعة في العصور العربية المبكرة قبل الإسلام <p>
+
+<form id="survey-form">
+<br> 
+
+<div id="img-div">
+<a id="What do you 
+(weee wooo bee loo woo) 
+wish?" target="_blank" >
+ <img id="image" src="https://i.imgur.com/zLzHnsp.jpeg"
+      alt="The Lamp Lord" width="20%" height="20%"> (Doom feat. Meathead BigBlue Jinn.) </img>
+<br>
+<br>
+  <h4><p>"So... hmmm...
+What do you 
+(weee wooo bee loo woo) mf
+    wish?"</p>
+
+<p> - said the Jinn<p/> </h4>
+    <ul>
+      <li>       <input type="text" placeholder="Wish Number One"> </span> </li>
+      <li>    <input type="text" placeholder="Wish Number Two"> </li>
+      <li>    <input type="text" placeholder="Wish Number Three"> </li>
+      </ul>
+  </p>
+<a href= "https://genesisleialoha.blogspot.com/2011/08/are-islam-jinn-same-as-3-wishes-kind.html" target="_blank"> About  the 3 Wishes </a>
+
+
+  
+</div>
+
